@@ -1,16 +1,16 @@
-### Hi there 👋
+![Hi, I'm Sayan 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Writing Code ❤️](https://github.com/ghsayan/ghsayan/blob/master/assets/bio.gif)
 
-<!--
-**ghsayan/ghsayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-Here are some ideas to get you started:
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-SayanGhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayan-ghosh-bbb994192/)](https://www.linkedin.com/in/jayraj-roshan/)
+[![Instagram Badge](https://img.shields.io/badge/-sayanghosh07-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sayanghosh07/)](https://www.instagram.com/sayanghosh07/)
+[![Gmail Badge](https://img.shields.io/badge/-sayanghosh004@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayanghosh004@gmail.com)](mailto:sayanghosh004@gmail.com)
+
+## ⚡ Domains:
+
+- App Development
+- Web Development
+- Internet of Things
+- Competitive Coding
