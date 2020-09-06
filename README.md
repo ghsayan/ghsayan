@@ -4,7 +4,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-SayanGhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayan-ghosh-bbb994192/)](https://www.linkedin.com/in/jayraj-roshan/)
+[![Linkedin Badge](https://img.shields.io/badge/-SayanGhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayan-ghosh-bbb994192/)](https://www.linkedin.com/in/sayan-ghosh-bbb994192/)
 [![Instagram Badge](https://img.shields.io/badge/-sayanghosh07-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sayanghosh07/)](https://www.instagram.com/sayanghosh07/)
 [![Gmail Badge](https://img.shields.io/badge/-sayanghosh004@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayanghosh004@gmail.com)](mailto:sayanghosh004@gmail.com)
 
